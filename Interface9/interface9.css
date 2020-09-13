@@ -1,0 +1,269 @@
+.debut{
+    background-color: black;
+    width: 100%;
+    height:50px;
+}
+body{
+    text-decoration: none;
+}
+.texte1{
+    color: white;
+    margin-left:15px ;
+   
+}
+.texte2{
+    background-color: white;
+    color: black;
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid black;
+    position: absolute;
+    top: 3.9%;
+    left: 90%;
+}
+.input{
+    width: 500px;
+    height: 35px;
+    border-radius: 15px;
+    border: 1px rgb(226, 226, 226) solid;
+    background-color: white;
+     outline: none;
+     opacity: 0.6;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: rgb(243, 243, 243);
+}
+.bouton{
+    display: inline-block;
+    position: relative;
+}
+.bouton p{
+    position: absolute;
+    padding-left: 580px;
+    margin-right: 20px;
+    top: 0%;
+}
+.accuiel{
+    position: absolute;
+    right: 10%; 
+}
+.abonnement{
+    position: absolute;
+    left: 15%;
+    opacity: 0.7; 
+}
+#point{
+    position: absolute;
+    left: 173%;
+    top: 35%;
+    opacity: 0.7;   
+}
+.p{
+    border: 1px rgb(223, 223, 223) solid;
+    background-color:rgb(243, 243, 243) ;
+    border-radius: 50px;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 139%;
+    top: 28%;
+    
+}
+#cloche{
+    position: absolute;
+    left: 166%;
+    top: 35%;
+    opacity: 0.5; 
+}
+.nombre1{
+    position: absolute;
+    width: 12px;
+    height:12px;
+    border-radius: 100%;
+    background-color: red;
+    color: white;
+    left: 167.5%;
+    top: 22%;
+    font-size: 11px;
+    padding: 1px;
+}
+.nombre2{
+    position: absolute;
+    width: 12px;
+    height:12px;
+    border-radius: 100%;
+    background-color: red;
+    color: white;
+    left: 162%;
+    top: 22%;
+    font-size: 11px;
+    padding: 1px;
+    padding-right: auto;
+    padding-left: auto;
+}
+.carree{
+   border: 1px solid black;
+   height:15px;
+   width: 10px;
+   border-left: none;
+   border-bottom: none;
+   border-top: none;
+    position: absolute;
+    left: 154%;
+    top: 35%;
+    opacity: 0.5;
+    
+}
+#message{
+    position: absolute;
+    left: 160%;
+    top: 35%;
+    opacity: 0.5;   
+}
+.fa-pinterest:before {
+    content: "\f0d2";
+    COLOR: RED;
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    font-size: 25px;
+}
+.philippe{
+    position: absolute;
+    left: 40%; 
+    opacity: 0.7; 
+}
+hr{
+    opacity: 0.6;
+}
+ .rond{
+        position: absolute;
+        left: 80px;
+        top: 20px;}
+.img1{
+    width: 155px;
+    height: 400px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid;
+
+}
+.img2{
+    width: 155px;
+    height: 85px; 
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid;
+}
+.img3{
+    width: 155px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid;
+ 
+}
+.img4{
+    width: 155px;
+    height: 185px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.photo1{
+    top: 22.5%;
+    position: absolute;
+    left: 0%;
+}
+.photo2{
+   position: absolute;
+   right: 67.6%;
+   top: 23%;
+}
+.photo3{
+    position: absolute;
+    right: 50.9%;
+    top: 23%;
+ }
+ .img5{
+    width: 155px;
+    height: 175px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img6{
+    width: 155px;
+    height: 130px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img7{
+    width: 155px;
+    height: 180px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img8{
+    width: 155px;
+    height: 182px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img9{
+    width: 155px;
+    height: 100px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid;   
+}
+.photo4{
+    position: absolute;
+    right: 34.3%;
+    top: 23%;
+ }
+ img{
+     object-fit: cover;
+ }
+ .photo5{
+    position: absolute;
+    right: 17.6%;
+    top: 23%;
+ }
+ .img10{
+    width: 155px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img11{
+    width: 155px;
+    height: 180px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img12{
+    width: 155px;
+    height: 130px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.photo6{
+    position: absolute;
+    right: 1%;
+    top: 23%;
+ }
+ .img13{
+    width: 155px;
+    height: 220px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img14{
+    width: 155px;
+    height: 260px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}
+.img15{
+    width: 155px;
+    height: 175px;
+    border-radius: 10px;
+    border: 1px rgb(226, 226, 226) solid; 
+}

@@ -1,0 +1,105 @@
+.player1{
+    width: 120px;
+    height: 35px;
+    background-color: darkturquoise;
+    border: 1px rgb(233, 232, 232) solid;
+    position: absolute;
+    top: 100px;
+    right: 530px;
+}
+.div1{
+    width: 260px;
+    height: 340px;
+    background-color: #eea56aef;
+    border: 1px rgb(238, 238, 238) solid;
+    border-radius: 15px;
+    margin-left: 35%;
+    margin-top: 15%;
+    box-shadow: 1px 7px 9px 0px black;
+}
+    
+
+.div2{
+    background-color: #183125;
+    width: 220px;
+    height: 260px;
+    border: 1px rgb(238, 238, 238) solid;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 45px;
+}
+.div2 p{
+    text-align: center;
+    color: white;
+}
+.trait1{
+        border: 2px solid white;
+        height:230px;
+        width: 10px;
+        border-left: none;
+        border-bottom: none;
+        border-top: none;
+         position: absolute;
+         opacity: 0.5;
+         margin-left: 55px;
+         margin-top: 15px;
+}
+.trait2{
+    border: 1px solid white;
+    height:230px;
+    width: 10px;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+     position: absolute;
+     opacity: 0.5;
+     margin-left: 150px;
+     margin-top: 15px;
+}
+.trait3{
+    border: 1px solid white;
+    height:0px;
+    width: 205px;
+    position: absolute;
+     opacity: 0.5;
+     margin-top: 80px;
+     margin-left: 8px;
+}
+.trait4{
+    border: 1px solid white;
+    height:0px;
+    width: 205px;
+    position: absolute;
+     opacity: 0.5;
+     margin-top: 175px;
+     margin-left: 8px;
+}
+.div3{
+    display: flex;
+    font-size: 11.5px;
+    opacity: 0.6;
+}
+.reset{
+    position: absolute;
+    margin-left: 190px;
+}
+.play1{
+    position: absolute;
+  margin-left: 40px;  
+}
+.play2{
+    position: absolute;
+    margin-left: 100px;
+}
+.trait5{
+    position: absolute;
+    border: 1px solid black;
+    height:36px;
+    width: 10px;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+     opacity: 0.5;
+     margin-left: 75px;
+     margin-top: 10px;
+}

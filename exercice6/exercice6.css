@@ -1,0 +1,47 @@
+.carree{
+    border: 3px rgb(3, 150, 3) solid;
+    margin-top: 100px;
+    width: 750px;
+    height: 450px;
+    margin-left:120px;
+    
+}
+.image{
+    width: 350px;
+    height: 450px;
+}
+.welcome{
+    width:350px ;
+    height: 450px;
+    margin-left: 70px;
+}
+h2 ,b{
+    color: blue;
+    text-decoration: bold;
+}
+.carree{
+    display: flex;
+}
+.input1{
+    border: 1px rgb(206, 206, 206) solid;
+    width: 255px;
+    height: 35px;
+    margin-top: 8px;
+    border-radius: 2px;
+}
+
+.input3{
+    width: 262px;
+    height: 35px;
+    background-color: rgb(23, 23, 250);
+    border: none;
+    color: white;
+    border-radius: 2px;  
+}
+.texte{
+    margin-left: 10px;
+    opacity: 0.5;
+}
+input:focus:invalid{
+    border-color:rgb(122, 30, 30);
+} 

@@ -1,0 +1,14 @@
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: #efb587;
+    border: 1px rgb(238, 238, 238) solid;
+    border-radius: 2px;
+}
+.div2{
+    background-color: #203F30;
+    width: 150px;
+    height: 150px;
+    border: 1px rgb(238, 238, 238) solid;
+    border-radius: 2px;
+}

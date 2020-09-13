@@ -1,0 +1,157 @@
+.business{
+    background-color: rgb(116, 114, 114);
+    display: inline-block;
+    width: 100%;
+    height: 130px;
+   font-size: 14.5px;
+  
+  
+}
+.presentation {
+    background-color: rgb(104, 218, 233);
+     width: 100%;
+    height: 42px;
+    position: relative;
+    float: right;
+    margin-top: -30px;
+}
+.liste0 li{
+    display: inline-block;
+    margin-right: 40px;
+    color: white;
+    
+}
+.business .busnes{
+    font-size: 30px;
+    color: white;
+    margin-top: 40px;
+    opacity: 0.8;
+    margin-left: 30px;
+}
+.templated{
+    text-align: right;
+    color: white;
+    opacity: 0.6;
+    margin-top: -50px;
+    margin-right: 20px;
+}
+article{
+    width: 70%;
+    height: 600px;
+    position: relative;
+    margin-left: 17px;
+}
+.image{
+    width: 95%;
+    height:160px ;
+    border: 1px rgb(110, 110, 110) solid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.image1{
+   width: 40px; 
+   height: 50px;
+   
+}
+.image2{
+    width: 50px; 
+   height: 50px; 
+}
+.image3{
+    width: 50px; 
+    height: 50px;
+}
+.bloc1{
+    display: flex;
+}
+.bloc3{
+    position: absolute;
+    right: 20%;
+}
+.bloc3 ul li{
+    list-style: none;
+}
+.bloc2 p{
+    display: flex;
+}
+.m{
+    display: flex;
+    border-bottom: 1px black solid;
+}
+.bloc2 .r{
+    
+}
+.bloc0 span{
+    padding-top: 16px;
+    color: rgb(104, 218, 233) ;
+    margin-left: 10px;
+}
+   
+
+em{
+    color:rgb(46, 179, 197) ;
+    text-decoration: underline;
+}
+aside{
+    width: 30%;
+    height: 600px;
+    margin-left: 100px;
+}
+section{
+    display: flex;
+}
+hr{
+    opacity: 0.6;
+    width: 150px;
+    
+}
+.bloc4 span{
+    list-style: none;
+    color: rgb(104, 218, 233) ;
+}
+.bloc0 span{
+    list-style: none;
+}
+.bloc4 span p{
+    width: 10px;
+    height: 15px;
+    border: 1px black solid;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    display: flex;
+    background-color:rgb(131, 129, 129);
+    top: 130%;
+}
+.bloc5{
+    width: 70%;
+    height: 200px;
+    margin-left: 40px;
+    color: white; 
+}
+.bloc6{
+    width: 30%;
+    height: 200px;
+    margin-left: 100px;
+    color: white; 
+}
+.n{
+    display: flex;
+    border-bottom: 1px black solid;
+    margin-bottom: 10px; 
+}
+.bloc0 p{
+    width: 38px;
+    height: 18px;
+    border: 1px black solid;
+    background-color: rgb(134, 134, 134);
+    color: white;
+    font-size: 15px;
+}
+.bloc3 ul li{
+    border-bottom: 1px black solid;
+    margin-bottom: 15px;
+    color: rgb(104, 218, 233) ;
+}
